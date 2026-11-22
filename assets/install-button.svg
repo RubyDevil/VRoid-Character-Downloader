@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="48" viewBox="0 0 360 48">
+  <g fill="none" stroke="#8b949e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <polyline points="14,16 22,24 14,32" opacity=".3"/>
+      <polyline points="30,16 38,24 30,32" opacity=".6"/>
+      <polyline points="46,16 54,24 46,32"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <polyline points="346,16 338,24 346,32" opacity=".3"/>
+      <polyline points="330,16 322,24 330,32" opacity=".6"/>
+      <polyline points="314,16 306,24 314,32"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-5 0;0 0" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <rect x="70" y="4" width="220" height="40" rx="20" fill="#2ea44f"/>
+  <g fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M97 15v12M92 22l5 5 5-5M90 32h14"/>
+  </g>
+  <text x="113" y="30.5" textLength="157" lengthAdjust="spacingAndGlyphs" fill="#fff" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="600">Install Userscript</text>
+</svg>
